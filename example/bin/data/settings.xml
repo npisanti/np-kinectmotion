@@ -1,0 +1,12 @@
+<group>
+	<kinect_motion_sensor>
+		<threshold_min>1.27551</threshold_min>
+		<threshold_max>4.69388</threshold_max>
+		<columns_min>0.25</columns_min>
+		<columns_max>1</columns_max>
+	<motion_min>0.137755</motion_min>
+		<motion_max>0.321429</motion_max>
+	<scale>21</scale>
+	</kinect_motion_sensor>
+<group/>
+</group>

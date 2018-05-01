@@ -1,0 +1,3 @@
+ofxGui
+ofxKinect
+np-kinectmotion
